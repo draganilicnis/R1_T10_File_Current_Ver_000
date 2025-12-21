@@ -32,5 +32,8 @@ class R1_T10_File_Current_Ver_000
         Console.WriteLine(sFold_Name_VSsc);
         string sFold_Name_VSrp = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.UserProfile), "source", "repos");
         Console.WriteLine(sFold_Name_VSrp);
+
+        Console.WriteLine("Unesi bilo sta za kraj.");
+        string s = Console.ReadLine();
     }
 }
