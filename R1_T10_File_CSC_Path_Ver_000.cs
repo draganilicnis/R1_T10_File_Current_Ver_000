@@ -28,3 +28,10 @@ class R1_T10_File_CSC_Path_Ver_000
         Console.ReadKey();
     }
 }
+
+/*
+C:\Windows\System32>dir %WINDIR%\Microsoft.NET\Framework64\csc.exe /s/b
+C:\WINDOWS\Microsoft.NET\Framework64\v2.0.50727\csc.exe
+C:\WINDOWS\Microsoft.NET\Framework64\v3.5\csc.exe
+C:\WINDOWS\Microsoft.NET\Framework64\v4.0.30319\csc.exe
+*/
