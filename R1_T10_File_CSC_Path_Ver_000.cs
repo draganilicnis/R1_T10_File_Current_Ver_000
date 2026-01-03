@@ -1,6 +1,7 @@
 // https://stackoverflow.com/questions/6660512/how-to-get-csc-exe-path
 // dir /s %WINDIR%\CSC.EXE
 // dir %WINDIR%\Microsoft.NET\Framework64\csc.exe /s/b
+// https://github.com/draganilicnis/R1_T10_File_Current_Ver_000/blob/main/R1_T10_File_CSC_Path_Ver_000.cs
 
 using System;
 using System.IO;                        // Zbog Path.Combine()
